@@ -614,7 +614,7 @@ img {
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-07 211929.png>)
+![alt text](pavi.png)
 
 
 ## RESULT:
